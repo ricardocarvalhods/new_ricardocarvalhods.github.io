@@ -1,6 +1,6 @@
 ---
 layout: page
 permalink: /events/
-title: Events
+title: **E**vents
 description: A selection of data science events I have hosted or spoken at.
 ---
