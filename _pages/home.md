@@ -3,6 +3,9 @@ layout: page
 permalink: /
 title: <strong>Ricardo Carvalho</strong>
 description: Data scientist, PhD student on privacy-preserving data mining.
+
+news: true
+social: true
 ---
 Hi, I’m Ricardo Carvalho.
 
