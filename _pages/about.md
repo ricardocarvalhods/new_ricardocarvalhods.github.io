@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /about
-title: <strong>Ricardo Carvalho</strong>
+title: <b>A</b>bout
 description: Data scientist, PhD student on privacy-preserving data mining.
 
 profile:
