@@ -2,7 +2,6 @@
 layout: about
 permalink: /about
 title: <b>A</b>bout
-description: Data scientist, PhD student on privacy-preserving data mining.
 
 profile:
   align: right
