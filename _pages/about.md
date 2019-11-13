@@ -1,6 +1,6 @@
 ---
 layout: about
-permalink: /
+permalink: /about
 title: <strong>Ricardo Carvalho</strong>
 description: Data scientist and PhD student on privacy-preserving data mining.
 
