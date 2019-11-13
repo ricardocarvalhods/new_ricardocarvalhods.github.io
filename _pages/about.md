@@ -2,7 +2,7 @@
 layout: about
 permalink: /about
 title: <strong>Ricardo Carvalho</strong>
-description: Data scientist and PhD student on privacy-preserving data mining.
+description: Data scientist, PhD student on privacy-preserving data mining.
 
 profile:
   align: right
