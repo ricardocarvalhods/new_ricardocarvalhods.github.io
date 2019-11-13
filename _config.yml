@@ -5,7 +5,7 @@ name: Ricardo Carvalho
 title: Ricardo Carvalho
 email: ricardosc@gmail.com
 description: > # this means to ignore newlines until "url:"
-  Data scientist and PhD student on privacy-preserving data mining.
+  Data scientist, PhD student on privacy-preserving data mining.
 footer_text: # I don't want any
 url: # the base hostname & protocol for your site
 #baseurl: / # the subpath of your site, e.g. /blog/
@@ -20,6 +20,13 @@ linkedin_username: ricardoscr
 github_username: ricardocarvalhods
 #gitlab_username: ricardocarvalhods
 #medium_username: alexhaydock
+scholar_userid: V8v6VckAAAAJ # your Google Scholar ID
+orcid_id: # your ORCID ID
+medium_username: # your Medium username
+quora_username: # your Quora username
+publons_id: # your ID on Publons
+research_gate_profile: # your profile on ResearchGate
+blogger_url: # your blogger URL
 
 # Contact note (aka homepage footer under the social icons)
 contact_note: >
