@@ -7,7 +7,7 @@ profile:
   align: right
   image: prof_pic.jpg
 
-news: true
+news: false
 social: true
 ---
 Hi, I’m Ricardo Carvalho.
